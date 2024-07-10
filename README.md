@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript Projects. <br>🌱 I’m currently learning JavaScript. <br>💬 Ask me about web development. <br>⚡ Fun fact - I am pretty good at impressing someone.😉
+🔭 I’m currently working on React Projects. <br>🌱 I’m currently learning JavaScript and React. <br>💬 Ask me about web development. <br>👨‍💻I'm a quick learner. <br>⚡ Fun fact - I am pretty good at impressing someone.😉
 
 
 ## 🌐 Socials:
